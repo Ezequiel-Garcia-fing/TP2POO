@@ -1,0 +1,32 @@
+<root>
+	<row>
+		<dispositivo_id>2</dispositivo_id>
+		<porcentaje_valvula>61</porcentaje_valvula>
+		<estado_nivel>bajo</estado_nivel>
+		<caudal>90.63</caudal>
+	</row>
+	<row>
+		<dispositivo_id>2</dispositivo_id>
+		<porcentaje_valvula>18</porcentaje_valvula>
+		<estado_nivel>alto</estado_nivel>
+		<caudal>64.35</caudal>
+	</row>
+	<row>
+		<dispositivo_id>2</dispositivo_id>
+		<porcentaje_valvula>28</porcentaje_valvula>
+		<estado_nivel>bajo</estado_nivel>
+		<caudal>50.42</caudal>
+	</row>
+	<row>
+		<dispositivo_id>2</dispositivo_id>
+		<porcentaje_valvula>46</porcentaje_valvula>
+		<estado_nivel>alto</estado_nivel>
+		<caudal>92.88</caudal>
+	</row>
+	<row>
+		<dispositivo_id>2</dispositivo_id>
+		<porcentaje_valvula>90</porcentaje_valvula>
+		<estado_nivel>bajo</estado_nivel>
+		<caudal>83.34</caudal>
+	</row>
+</root>
